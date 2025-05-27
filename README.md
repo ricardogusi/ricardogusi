@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Atualmente trabalho como Desenvolvedor Full Stack Java / Vue de um software <br>de gestão orçamentária, faço a correção de bugs e criações de novas features<br>
+🔭 Atuo no desenvolvimento e manutenção de um sistema de planejamento orçamentário que utiliza estruturas de dados multidimensionais (cubos com coordenadas x, y, z). Minhas responsabilidades incluem a correção de bugs críticos em produção e a implementação de novas funcionalidades que aumentam a eficiência e a usabilidade do sistema.
+
+No dia a dia, trabalho com metodologias ágeis (Scrum) e tenho autonomia para atuar tanto no backend, utilizando Java com Spring Boot, quanto no frontend, com JavaScript e Vue.js 2. Também realizo operações em bancos de dados relacionais (Oracle, SQL Server) e não relacionais (MongoDB).<br>
 
 
 ## 🌐 Socials:
