@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 
 Sou Ricardo Gusi, Desenvolvedor Full Stack desde 2021, com foco em Java (Spring Boot) no backend e Vue.js no frontend.
 
